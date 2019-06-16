@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13090616668",
+    "firebase_url": "https://androidstudioprojects-f527b.firebaseio.com",
+    "project_id": "androidstudioprojects-f527b",
+    "storage_bucket": "androidstudioprojects-f527b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13090616668:android:8eea4fbfa63a27b6",
+        "android_client_info": {
+          "package_name": "com.rentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13090616668-juhtk8b9275ims1i6nq26t1ub7rcdot7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentapp",
+            "certificate_hash": "89e4f98005f9ff08d5725251a739d7ea81561a96"
+          }
+        },
+        {
+          "client_id": "13090616668-n07bsqdoomja9kfbcmqvc5ucalsjg89u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOcWKEPJJNaRwlj8qOjjduxvbdd_A8To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13090616668-n07bsqdoomja9kfbcmqvc5ucalsjg89u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
